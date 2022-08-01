@@ -7,8 +7,7 @@
 
 Technologies Used:
 + Java Script
-+ Css
-+ HTML
+
 
 <h4 align="center"> 
 	🚧  
