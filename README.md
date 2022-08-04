@@ -1,7 +1,7 @@
 
 
-> # CRONOMETRO SHOW ⏰
- CRONOMETRO SHOW ⏰
+> # CRONOMETRO SHOW 🧱🧻✂️
+ CRONOMETRO SHOW ✊🖐️✌️
 
 + It's a stopwatch made by me, where it only counts the seconds, something simple just doing to pass the time.
 
